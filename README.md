@@ -10,6 +10,7 @@
 # Code and Resources Used:
 
 **Coding Language:** Python
+
 **Packages:** pandas, numpy, matplotlib, seaborn, math, sklearn
 
 **YouTube Project Presentation:**
