@@ -13,4 +13,4 @@
 **Packages:** pandas, numpy, matplotlib, seaborn, math, sklearn
 
 **YouTube Project Presentation:**
-(https://www.youtube.com/watch?v=Mi--XLxxINk) 
+https://www.youtube.com/watch?v=Mi--XLxxINk
